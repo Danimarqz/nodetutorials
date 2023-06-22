@@ -1,6 +1,0 @@
-#config
-config.env
-.gitignore
-
-#dependencies
-node_modules
